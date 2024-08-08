@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.154" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/drawable/btn_blue.xml" value="0.2335" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/drawable/ic_launcher2_background.xml" value="0.39" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3015" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/font/font.xml" value="0.5479166666666667" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_booking_basic.xml" value="0.5" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_booking_cat.xml" value="0.25" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_booking_list.xml" value="0.33" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_booking_pickup.xml" value="0.5" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_booking_walk.xml" value="0.5" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_cancel_popup.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_join.xml" value="0.5369791666666667" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_login2.xml" value="0.26063829787234044" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_re_write.xml" value="0.2586050724637681" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_view.xml" value="0.2586050724637681" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/activity_write.xml" value="0.9391447368421053" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/bg_fading_edge.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/bg_indicator_active.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/bg_indicator_inactive.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/booking.xml" value="0.5" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/flag2.xml" value="0.47101449275362317" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frag1.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frag2.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frag3.xml" value="0.47101449275362317" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/fragment_blank1.xml" value="0.26063829787234044" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/fragment_blank2.xml" value="0.26063829787234044" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/fragment_blank3.xml" value="0.26063829787234044" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/fragment_dog.xml" value="0.26063829787234044" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frame_1.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frame_2.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frame_3.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/frame_4.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/guide.xml" value="0.33" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/item_rv_memo.xml" value="0.2586050724637681" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/item_slider.xml" value="0.2798913043478261" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/join.xml" value="0.33460076045627374" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/login.xml" value="0.352" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/pay.xml" value="0.4438405797101449" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/layout/viewholder_main.xml" value="0.1" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.343" />
+        <entry key="..\:/CookAndroid/Project/capstonedesignTESTver001/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.343" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

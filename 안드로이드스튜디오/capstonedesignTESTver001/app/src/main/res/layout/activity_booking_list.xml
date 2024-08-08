@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="예약 목록"
+        android:fontFamily="@font/a"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+ android:textColor="@color/white"
+    android:text="예약된 목록이 없습니다."
+        android:fontFamily="@font/a"
+        android:textSize="20dp"
+        android:layout_width="379dp"
+        android:layout_height="404dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/rechange"
+        android:layout_marginBottom="0dp"
+        android:layout_width="381dp"
+        android:layout_height="77dp"
+        android:text="새로고침"
+        android:fontFamily="@font/a"
+        android:textSize="30dp" />
+
+
+</LinearLayout>
